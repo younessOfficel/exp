@@ -1,0 +1,27 @@
+[
+    {
+        "category_image": "1190-2018-04-23.png",
+        "category_name": "Misc",
+        "cid": "4"
+    },
+    {
+        "category_image": "6563-2015-11-15.png",
+        "category_name": "Culture",
+        "cid": "5"
+    },
+    {
+        "category_image": "8649-2015-11-15.png",
+        "category_name": "Education",
+        "cid": "7"
+    },
+    {
+        "category_image": "2215-2015-11-15.png",
+        "category_name": "Newscast",
+        "cid": "8"
+    },
+    {
+        "category_image": "5837-2018-05-27.png",
+        "category_name": "World",
+        "cid": "9"
+    }
+]
