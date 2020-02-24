@@ -1,0 +1,32 @@
+[
+  {
+    "cid": "9",
+    "category_name": "World",
+    "category_image": "5837-2018-05-27.png",
+    "radio_count": "4"
+  },
+  {
+    "cid": "8",
+    "category_name": "Newscast",
+    "category_image": "2215-2015-11-15.png",
+    "radio_count": "1"
+  },
+  {
+    "cid": "7",
+    "category_name": "Education",
+    "category_image": "8649-2015-11-15.png",
+    "radio_count": "1"
+  },
+  {
+    "cid": "5",
+    "category_name": "Culture",
+    "category_image": "6563-2015-11-15.png",
+    "radio_count": "1"
+  },
+  {
+    "cid": "4",
+    "category_name": "Misc",
+    "category_image": "1190-2018-04-23.png",
+    "radio_count": "2"
+  }
+]
