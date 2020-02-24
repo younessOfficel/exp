@@ -1,0 +1,34 @@
+[
+  {
+    "radio_id": "37",
+    "radio_name": "Radio 2.0 - Valli di Bergamo",
+    "radio_image": "0894-2019-05-03.jpg",
+    "radio_url": "http://46.252.154.133:8080",
+    "category_id": "9",
+    "category_name": "World"
+  },
+  {
+    "radio_id": "33",
+    "radio_name": "V Radio FM Jakarta",
+    "radio_image": "7913-2017-11-07.jpg",
+    "radio_url": "http://193.0.98.66:8005",
+    "category_id": "9",
+    "category_name": "World"
+  },
+  {
+    "radio_id": "31",
+    "radio_name": "Suara Madu FM",
+    "radio_image": "0253-2015-11-15.jpg",
+    "radio_url": "http://142.4.217.133:9228/stream",
+    "category_id": "9",
+    "category_name": "World"
+  },
+  {
+    "radio_id": "22",
+    "radio_name": "Maestro Bandung FM",
+    "radio_image": "8841-2015-11-15.jpg",
+    "radio_url": "http://192.99.170.8:5756/",
+    "category_id": "9",
+    "category_name": "World"
+  }
+]
