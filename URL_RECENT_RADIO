@@ -1,74 +1,72 @@
-{
-  "YourRadioApp": [
-    {
-      "radio_name": "Amado Batista 1",
-      "radio_image": "https://a7b.cc/wp-content/uploads/2019/04/3340.jpg",
-      "radio_url": "https://server7.mp3quran.net/shur/001.mp3",
-      "category_name": "maaaaaaaaa",
-      "radio_id": "1"
-    },
-    {
-      "radio_name": "Amado Batista 2.",
-      "radio_image": "https://a7b.cc/wp-content/uploads/2019/04/3340.jpg",
-      "radio_url": "https://server7.mp3quran.net/shur/002.mp3",
-      "category_name": "Tyyyyyyyy",
-      "radio_id": "2"
-    },
-    {
-      "radio_name": "Amado Batista 3.",
-      "radio_image": "https://a7b.cc/wp-content/uploads/2019/04/3340.jpg",
-      "radio_url": "https://server7.mp3quran.net/shur/003.mp3",
-      "category_name": "maaaaaaaaa",
-      "radio_id": "3"
-    },
-    {
-      "radio_name": "Amado Batista 4. ",
-      "radio_image": "https://a7b.cc/wp-content/uploads/2019/04/3340.jpg",
-      "radio_url": "https://server7.mp3quran.net/shur/004.mp3",
-      "category_name": "maaaaaaaaa",
-      "radio_id": "4"
-    },
-    {
-      "radio_name": "Amado Batista 5.",
-      "radio_image": "https://a7b.cc/wp-content/uploads/2019/04/3340.jpg",
-      "radio_url": "https://server7.mp3quran.net/shur/005.mp3",
-      "category_name": "Tyyyyyyyy",
-      "radio_id": "5"
-    },
-    {
-      "radio_name": "Amado Batista 6. ",
-      "radio_image": "https://quotess.cc/wp-content/uploads/2018/06/3948.jpg",
-      "radio_url": "https://server7.mp3quran.net/shur/006.mp3",
-      "category_name": "Tyyyyyyyy",
-      "radio_id": "6"
-    },
-    {
-      "radio_name": "Amado Batista 6. ",
-      "radio_image": "https://quotess.cc/wp-content/uploads/2018/06/3948.jpg",
-      "radio_url": "https://server7.mp3quran.net/shur/007.mp3",
-      "category_name": "Tyyyyyyyy",
-      "radio_id": "7"
-    },
-    {
-      "radio_name": "Amado Batista 7. ",
-      "radio_image": "https://quotess.cc/wp-content/uploads/2018/06/3948.jpg",
-      "radio_url": "https://server7.mp3quran.net/shur/008.mp3",
-      "category_name": "maaaaaaaaa",
-      "radio_id": "8"
-    },
-    {
-      "radio_name": "Amado Batista 8. ",
-      "radio_image": "https://quotess.cc/wp-content/uploads/2018/06/3948.jpg",
-      "radio_url": "https://server7.mp3quran.net/shur/009.mp3",
-      "category_name": "Tyyyyyyyy",
-      "radio_id": "9"
-    },
-    {
-      "radio_name": "Amado Batista 9. ",
-      "radio_image": "https://quotess.cc/wp-content/uploads/2018/06/3948.jpg",
-      "radio_url": "https://server7.mp3quran.net/shur/0010.mp3",
-      "category_name": "maaaaaaaaa",
-      "radio_id": "10"
-    }
-  ]
-}
+[
+  {
+    "name": "Amado Batista 1",
+    "logo": "https://a7b.cc/wp-content/uploads/2019/04/3340.jpg",
+    "url": "https://server7.mp3quran.net/shur/001.mp3",
+    "category": "maaaaaaaaa",
+    "radio_id": "1"
+  },
+  {
+    "name": "Amado Batista 2.",
+    "logo": "https://a7b.cc/wp-content/uploads/2019/04/3340.jpg",
+    "url": "https://server7.mp3quran.net/shur/002.mp3",
+    "category": "Tyyyyyyyy",
+    "radio_id": "2"
+  },
+  {
+    "name": "Amado Batista 3.",
+    "logo": "https://a7b.cc/wp-content/uploads/2019/04/3340.jpg",
+    "url": "https://server7.mp3quran.net/shur/003.mp3",
+    "category": "maaaaaaaaa",
+    "radio_id": "3"
+  },
+  {
+    "name": "Amado Batista 4. ",
+    "logo": "https://a7b.cc/wp-content/uploads/2019/04/3340.jpg",
+    "url": "https://server7.mp3quran.net/shur/004.mp3",
+    "category": "maaaaaaaaa",
+    "radio_id": "4"
+  },
+  {
+    "name": "Amado Batista 5.",
+    "logo": "https://a7b.cc/wp-content/uploads/2019/04/3340.jpg",
+    "url": "https://server7.mp3quran.net/shur/005.mp3",
+    "category": "Tyyyyyyyy",
+    "radio_id": "5"
+  },
+  {
+    "name": "Amado Batista 6. ",
+    "logo": "https://quotess.cc/wp-content/uploads/2018/06/3948.jpg",
+    "url": "https://server7.mp3quran.net/shur/006.mp3",
+    "category": "Tyyyyyyyy",
+    "radio_id": "6"
+  },
+  {
+    "name": "Amado Batista 6. ",
+    "logo": "https://quotess.cc/wp-content/uploads/2018/06/3948.jpg",
+    "url": "https://server7.mp3quran.net/shur/007.mp3",
+    "category": "Tyyyyyyyy",
+    "radio_id": "7"
+  },
+  {
+    "name": "Amado Batista 7. ",
+    "logo": "https://quotess.cc/wp-content/uploads/2018/06/3948.jpg",
+    "url": "https://server7.mp3quran.net/shur/008.mp3",
+    "category": "maaaaaaaaa",
+    "radio_id": "8"
+  },
+  {
+    "name": "Amado Batista 8. ",
+    "logo": "https://quotess.cc/wp-content/uploads/2018/06/3948.jpg",
+    "url": "https://server7.mp3quran.net/shur/009.mp3",
+    "category": "Tyyyyyyyy",
+    "radio_id": "9"
+  },
+  {
+    "name": "Amado Batista 9. ",
+    "logo": "https://quotess.cc/wp-content/uploads/2018/06/3948.jpg",
+    "url": "https://server7.mp3quran.net/shur/0010.mp3",
+    "category": "maaaaaaaaa",
+    "radio_id": "10"
+  }
+]
