@@ -1,67 +1,74 @@
 {
   "YourRadioApp": [
     {
-      "radio_id": "37",
-      "radio_name": "Radio 2.0 - Valli di Bergamo",
-      "radio_image": "0894-2019-05-03.jpg",
-      "radio_url": "http://46.252.154.133:8080",
-      "category_name": "World"
+      "radio_name": "Amado Batista 1",
+      "radio_image": "https://a7b.cc/wp-content/uploads/2019/04/3340.jpg",
+      "radio_url": "https://server7.mp3quran.net/shur/001.mp3",
+      "category_name": "maaaaaaaaa",
+      "radio_id": "1"
     },
     {
-      "radio_id": "33",
-      "radio_name": "V Radio FM Jakarta",
-      "radio_image": "7913-2017-11-07.jpg",
-      "radio_url": "http://193.0.98.66:8005",
-      "category_name": "World"
+      "radio_name": "Amado Batista 2.",
+      "radio_image": "https://a7b.cc/wp-content/uploads/2019/04/3340.jpg",
+      "radio_url": "https://server7.mp3quran.net/shur/002.mp3",
+      "category_name": "Tyyyyyyyy",
+      "radio_id": "2"
     },
     {
-      "radio_id": "31",
-      "radio_name": "Suara Madu FM",
-      "radio_image": "0253-2015-11-15.jpg",
-      "radio_url": "http://142.4.217.133:9228/stream",
-      "category_name": "World"
+      "radio_name": "Amado Batista 3.",
+      "radio_image": "https://a7b.cc/wp-content/uploads/2019/04/3340.jpg",
+      "radio_url": "https://server7.mp3quran.net/shur/003.mp3",
+      "category_name": "maaaaaaaaa",
+      "radio_id": "3"
     },
     {
-      "radio_id": "30",
-      "radio_name": "Radio Zelengrad",
-      "radio_image": "8896-2015-11-15.jpg",
-      "radio_url": "http://188.212.103.121:8000/",
-      "category_name": "Newscast"
+      "radio_name": "Amado Batista 4. ",
+      "radio_image": "https://a7b.cc/wp-content/uploads/2019/04/3340.jpg",
+      "radio_url": "https://server7.mp3quran.net/shur/004.mp3",
+      "category_name": "maaaaaaaaa",
+      "radio_id": "4"
     },
     {
-      "radio_id": "29",
-      "radio_name": "Radio Rodja",
-      "radio_image": "1593-2015-11-15.jpg",
-      "radio_url": "http://live.radiorodja.com/",
-      "category_name": "Education"
+      "radio_name": "Amado Batista 5.",
+      "radio_image": "https://a7b.cc/wp-content/uploads/2019/04/3340.jpg",
+      "radio_url": "https://server7.mp3quran.net/shur/005.mp3",
+      "category_name": "Tyyyyyyyy",
+      "radio_id": "5"
     },
     {
-      "radio_id": "26",
-      "radio_name": "Radio Niagara",
-      "radio_image": "5962-2015-11-15.jpg",
-      "radio_url": "http://s2.voscast.com:7386",
-      "category_name": "Misc"
+      "radio_name": "Amado Batista 6. ",
+      "radio_image": "https://quotess.cc/wp-content/uploads/2018/06/3948.jpg",
+      "radio_url": "https://server7.mp3quran.net/shur/006.mp3",
+      "category_name": "Tyyyyyyyy",
+      "radio_id": "6"
     },
     {
-      "radio_id": "25",
-      "radio_name": "Radio Rama",
-      "radio_image": "3757-2015-11-15.jpg",
-      "radio_url": "http://rama-fm.simaya.net.id:8800/",
-      "category_name": "Culture"
+      "radio_name": "Amado Batista 6. ",
+      "radio_image": "https://quotess.cc/wp-content/uploads/2018/06/3948.jpg",
+      "radio_url": "https://server7.mp3quran.net/shur/007.mp3",
+      "category_name": "Tyyyyyyyy",
+      "radio_id": "7"
     },
     {
-      "radio_id": "24",
-      "radio_name": "Radio Jaca",
-      "radio_image": "4548-2015-11-15.jpg",
-      "radio_url": "http://s6.voscast.com:8824",
-      "category_name": "Misc"
+      "radio_name": "Amado Batista 7. ",
+      "radio_image": "https://quotess.cc/wp-content/uploads/2018/06/3948.jpg",
+      "radio_url": "https://server7.mp3quran.net/shur/008.mp3",
+      "category_name": "maaaaaaaaa",
+      "radio_id": "8"
     },
     {
-      "radio_id": "22",
-      "radio_name": "Maestro Bandung FM",
-      "radio_image": "8841-2015-11-15.jpg",
-      "radio_url": "http://192.99.170.8:5756/",
-      "category_name": "World"
+      "radio_name": "Amado Batista 8. ",
+      "radio_image": "https://quotess.cc/wp-content/uploads/2018/06/3948.jpg",
+      "radio_url": "https://server7.mp3quran.net/shur/009.mp3",
+      "category_name": "Tyyyyyyyy",
+      "radio_id": "9"
+    },
+    {
+      "radio_name": "Amado Batista 9. ",
+      "radio_image": "https://quotess.cc/wp-content/uploads/2018/06/3948.jpg",
+      "radio_url": "https://server7.mp3quran.net/shur/0010.mp3",
+      "category_name": "maaaaaaaaa",
+      "radio_id": "10"
     }
   ]
 }
