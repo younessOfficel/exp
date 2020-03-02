@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Algeria",
+    "logo": "https://ia601502.us.archive.org/10/items/words_202003/Algeria.png",
+    "url": "https://raw.githubusercontent.com/younessOfficel/exp/master/Algeria.json",
+    "category": "Africa"
+  },
+  {
+    "name": "benin",
+    "logo": "https://ia601502.us.archive.org/10/items/words_202003/benin.png",
+    "url": "https://raw.githubusercontent.com/younessOfficel/exp/master/benin.json",
+    "category": "Africa"
+  },
+  {
+    "name": "chad",
+    "logo": "https://ia601502.us.archive.org/10/items/words_202003/chad.png",
+    "url": "https://raw.githubusercontent.com/younessOfficel/exp/master/chad.json",
+    "category": "Africa"
+  },
+  {
+    "name": "congo",
+    "logo": "https://ia601502.us.archive.org/10/items/words_202003/congo.png",
+    "url": "https://raw.githubusercontent.com/younessOfficel/exp/master/congo.json",
+    "category": "Africa"
+  },
+  {
+    "name": "libya",
+    "logo": "https://ia601502.us.archive.org/10/items/words_202003/libya.png",
+    "url": "https://raw.githubusercontent.com/younessOfficel/exp/master/libya.json",
+    "category": "Africa"
+  },
+  {
+    "name": "morocco",
+    "logo": "https://ia601502.us.archive.org/10/items/words_202003/morocco.png",
+    "url": "https://raw.githubusercontent.com/younessOfficel/exp/master/morocco.json",
+    "category": "Africa"
+  },
+  {
+    "name": "nigeria",
+    "logo": "https://ia601502.us.archive.org/10/items/words_202003/nigeria.png",
+    "url": "https://raw.githubusercontent.com/younessOfficel/exp/master/nigeria.json",
+    "category": "Africa"
+  },
+  {
+    "name": "sudan",
+    "logo": "https://ia601502.us.archive.org/10/items/words_202003/sudan.png",
+    "url": "https://raw.githubusercontent.com/younessOfficel/exp/master/sudan.json",
+    "category": "Africa"
+  },
+  {
+    "name": "tanzania",
+    "logo": "https://ia601502.us.archive.org/10/items/words_202003/tanzania.png",
+    "url": "https://raw.githubusercontent.com/younessOfficel/exp/master/tanzania.json",
+    "category": "Africa"
+  },
+  {
+    "name": "zimbabwe",
+    "logo": "https://ia601502.us.archive.org/10/items/words_202003/zimbabwe.png",
+    "url": "https://raw.githubusercontent.com/younessOfficel/exp/master/zimbabwe.json",
+    "category": "Africa"
+  }
+]
