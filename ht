@@ -1,8 +1,6 @@
 [
   {
-    "ht": "<!doctype html>
-<link rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    "ht": "<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <html>
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
@@ -14,8 +12,7 @@
 <script language="javascript">
 
 function sendToShare(i = String){
-javascript_object.share(i);
-}
+javascript_object.share(i);}
 function sendToAndroid(i = String){
 
 var day;
@@ -38,6 +35,9 @@ switch (i) {
 }
 
 }
+
+
+
 
 
 </script>
@@ -82,6 +82,9 @@ border-radius: 15px 15px 15px 15px;
  }
 
 
+
+
+
 </style>
 
 
@@ -104,13 +107,11 @@ border-radius: 15px 15px 15px 15px;
     <button style="width:48%" class="btn" onclick="sendToAndroid('show2')"><i
             class="fa fa-sign-out"></i>Exit
     </button>
-
-<!--    onclick="window.open('', '_self', ''); window.close();"-->
+    
 </div>
 
 </body>
 
-</html>
-"
+</html>"
   }
 ]
